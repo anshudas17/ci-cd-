@@ -2,9 +2,9 @@ import requests
 import json
 
 # Replace with your GitHub username, repository, and personal access token
-USERNAME = 'harsha378'
+USERNAME = 'anshudas17'
 REPO_NAME = 'Building-CI-CD-Pipeline-Tool'
-ACCESS_TOKEN = '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'
+ACCESS_TOKEN = '*******'
 # URL to the GitHub API endpoint for the commits of the repository
 url = f'https://api.github.com/repos/{USERNAME}/{REPO_NAME}/commits'
 
